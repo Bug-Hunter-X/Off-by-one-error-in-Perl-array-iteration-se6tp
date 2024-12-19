@@ -1,0 +1,1 @@
+This repository demonstrates a common off-by-one error in Perl when iterating through arrays. The `bug.pl` file shows the incorrect approach that could lead to errors if the array size is not handled carefully. The corrected code in `bugSolution.pl` illustrates the proper way to iterate.
